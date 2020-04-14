@@ -4,7 +4,7 @@ creazione di una chat broadcast tramite springboot , web socket , html , js , e 
 java version "1.8.0_181"
 build:Maven 4.0.0
 IDE: Eclipse Java EE IDE for Web Developers.Version: 2018-09 (4.9.0)
-db h2 : download from http://www.h2database.com/html/download.html (innstal and create test by console istance)
+db h2 : download from http://www.h2database.com/html/download.html (install and create test istance by console )
          jdbc:h2:~/test
          user name :sa 
          password :
