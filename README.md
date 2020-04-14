@@ -11,8 +11,14 @@ IDE: Eclipse Java EE IDE for Web Developers.Version: 2018-09 (4.9.0)
 ```bash
 git clone https://github.com/belliazzi/ChatSpringBoot.git
 ```
-
-**2. Build and run the app using maven**
+**2.1 Build and run the app using IDE**
+  clik left button on project 
+   - run as : click on maven clean 
+   - run as : click on maven install 
+   click on "BootDashBord"
+    add target project 
+    click on it right button and click on Restart
+**2.2 Build and run the app using maven**
 
 ```bash
 cd ChatSpringBoot
